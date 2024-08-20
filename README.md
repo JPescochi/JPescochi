@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JPescochi
+- 👀 I’m interested in sports, science, math, rpg, comics, mangas and card games. 
+- 🌱 I’m currently learning script programming, calculus, discipline and always about life.
+- 💞️ I’m looking to collaborate on data analysis, machine learning, statistic projects.
+- ⚡ Life quote: Talent is a pursued interest, you will to, you practice and you do.
